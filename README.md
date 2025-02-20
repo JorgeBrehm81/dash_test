@@ -42,4 +42,4 @@ Just ensure you have the **gapminder2007.csv** file in the **data** folder
 I made this project for educational purposes only
 
 ### Author
-Jorge Brehm Gómez# dash_test
+Jorge Brehm Gómez
